@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">StudentDataForm</string>
+    <string-array name="title">
+        <item>Mr.</item>
+        <item>Mrs.</item>
+        <item>Miss.</item>
+    </string-array>
+    <string-array name="domains">
+        <item>gmail.com</item>
+        <item>yahoo.co.in</item>
+        <item>outlook.com</item>
+    </string-array>
+    <string-array name="country_code">
+        <item>+91</item>
+        <item>+92</item>
+        <item>+93</item>
+        <item>+94</item>
+    </string-array>
+</resources>
